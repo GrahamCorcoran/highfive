@@ -1,0 +1,3 @@
+In order to check-in, please write a *brief description* of what you did that was productive today as a top-level comment. The task must have taken you a minimum of five minutes. The comment can be as long as you want, but must be a minimum of one sentence long.
+
+Once that has been completed, u/AutoHighfive will update your flair to reflect your streak. Then, feel free to engage with other people in the comments as a reply to what they completed today. This is not mandatory, but is appreciated as we're all accountability buddies here.
